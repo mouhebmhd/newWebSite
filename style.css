@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*Now the styles*/
 * {
     margin: 0; 
@@ -80,4 +81,9 @@ width: 640px;
 	text-decoration: none;
 	padding: 20px;
 	font-size: 16px;
+=======
+*{
+    margin: 0px;
+    color: blue;
+>>>>>>> 137d2fce428ee5ec88115a11f5b3944c5eb092a7
 }

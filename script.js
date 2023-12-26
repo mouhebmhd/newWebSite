@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 console.log
 document.write
@@ -111,3 +112,9 @@ catch( e)
 {
   console.log(e)
 }
+=======
+console.log("hello world")
+console.log("server launched on port 8080")
+console.log("user logged ing ")
+console.log("dahsboard loaded")
+>>>>>>> 137d2fce428ee5ec88115a11f5b3944c5eb092a7
