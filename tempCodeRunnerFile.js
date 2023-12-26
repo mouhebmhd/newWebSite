@@ -1,0 +1,1 @@
+ile(nombre<10); 
